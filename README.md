@@ -65,7 +65,12 @@ Performed using snowball sampling (choosing the sample order, i.e. number of nod
 * [Classify the networks with lots of machine learning techniques here.](https://github.com/mariwahl/MLNet-Classifying-Complex-Networks)
 
 
-### License
+----
+
+
+## License
+
+When making a reference to my work, please use my [website](http://bt3gl.github.io/index.html).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
 
