@@ -61,9 +61,9 @@ Performed using snowball sampling (choosing the sample order, i.e. number of nod
 ### Next Steps
 
 
-* [Cleanse the data here.](https://github.com/bt3gl/NetClean-Complex-Networks-Data-Cleanser)
+* [Cleanse the data here.](https://github.com/MEV-WAIFU-LABS/NetClean-Complex-Networks-Data-Cleanser)
 
-* [Classify the networks with lots of machine learning techniques here.](https://github.com/bt3gl/MLNet-Classifying-Complex-Networks)
+* [Classify the networks with lots of machine learning techniques here.](https://github.com/MEV-WAIFU-LABS/MLNet-Classifying-Complex-Networks)
 
 
 ----
