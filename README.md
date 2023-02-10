@@ -1,16 +1,19 @@
-# NetAna - Complex Graph Network Analysis Package
+## NetAna - Complex Graph Network Analysis Package
 
 <br>
 
-Extraction and analysis of several graph features from publicly available datasets using [NetworkX](https://networkx.org/). 
+#### Extraction and analysis of several graph features from publicly available datasets using [NetworkX](https://networkx.org/). 
 
 #### 👉 [Check out my paper](final_report.pdf).
 
 
 <br>
 
+---
 
 ### Analyzed Features
+
+<br>
 
 * Assortativity
 * Clique number
@@ -37,7 +40,11 @@ Extraction and analysis of several graph features from publicly available datase
 
 <br>
 
+---
+
 ### Networks
+
+<br>
 
 * **Social networks**: online social networks, edges represent interactions between people
 * **Ground truth**: ground-truth network communities in social and information networks
@@ -61,14 +68,21 @@ Extraction and analysis of several graph features from publicly available datase
 <br>
 
 
+---
+
 ### Normalization and Graph Sampling
+
+<br>
 
 Performed using snowball sampling (choosing the sample order, i.e. number of nodes). Optimized for the number of edges and multiple samplings.
 
 <br>
 
-### Next Steps
+---
 
+### Next Steps in the Pipelin
+
+<br>
 
 * [Cleanse the data here.](https://github.com/MEV-WAIFU-LABS/NetClean-Complex-Networks-Data-Cleanser)
 * [Classify the networks with lots of machine learning techniques here.](https://github.com/MEV-WAIFU-LABS/MLNet-Classifying-Complex-Networks)
@@ -78,6 +92,8 @@ Performed using snowball sampling (choosing the sample order, i.e. number of nod
 ----
 
 
-## License
+### License
+
+<br>
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). 
