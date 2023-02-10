@@ -1,4 +1,4 @@
-# NetAna - Complex Network Analysis Package
+# NetAna - Complex Graph Network Analysis Package
 
 <br>
 
@@ -35,6 +35,8 @@ Extraction and analysis of several graph features from publicly available datase
 * Square clustering
 * Transitivity
 
+<br>
+
 ### Networks
 
 * **Social networks**: online social networks, edges represent interactions between people
@@ -56,20 +58,22 @@ Extraction and analysis of several graph features from publicly available datase
 * **Bio Carbon**: Carbon exchanges in the cypress wetlands of South Florida during the wet and dry season.
 * **Bio Yeast**: Protein-protein interaction network in budding yeast.
 
+<br>
 
 
 ### Normalization and Graph Sampling
 
 Performed using snowball sampling (choosing the sample order, i.e. number of nodes). Optimized for the number of edges and multiple samplings.
 
+<br>
 
 ### Next Steps
 
 
 * [Cleanse the data here.](https://github.com/MEV-WAIFU-LABS/NetClean-Complex-Networks-Data-Cleanser)
-
 * [Classify the networks with lots of machine learning techniques here.](https://github.com/MEV-WAIFU-LABS/MLNet-Classifying-Complex-Networks)
 
+<br>
 
 ----
 
