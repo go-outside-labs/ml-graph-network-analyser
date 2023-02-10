@@ -80,7 +80,7 @@ Performed using snowball sampling (choosing the sample order, i.e. number of nod
 
 ---
 
-### Next Steps in the Pipelin
+### Next Steps in the Pipeline
 
 <br>
 
