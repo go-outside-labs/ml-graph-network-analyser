@@ -4,7 +4,7 @@
 
 Extraction and analysis of several graph features from publicly available datasets using [NetworkX](https://networkx.org/). 
 
-[Check out my paper](final_report.pdf).
+#### 👉 [Check out my paper](final_report.pdf).
 
 
 <br>
